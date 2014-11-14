@@ -1,4 +1,5 @@
 #!/bin/env python
+#input the sample number N and the number of GMM models k
 
 import numpy as np
 import matplotlib.pyplot as plt
